@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+<staff id="1001">
+<salary>IS NULL</salary>
+</staff>
+<staff id="1002">
+<bio>IS NULL</bio>
+</staff>
+</Company>
